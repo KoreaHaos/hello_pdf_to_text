@@ -3,6 +3,9 @@
 Sources :
 * http://williamjturkel.net/2013/08/24/working-with-pdfs-using-command-line-tools-in-linux/
 
+A bunch of stuff needs to be setup, see the install tools notes.
+
+
 
 Further Research Paths :
 * http://williamjturkel.net/how-to/
